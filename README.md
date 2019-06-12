@@ -1,4 +1,5 @@
 # simple-storage-mp
+## 一个微信小程序缓存管理工具
 ```js
 import storage from "simple-storage-mp";
 
